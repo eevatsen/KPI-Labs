@@ -1,0 +1,14 @@
+D:\uni\курс 2\сем 1\ООП\лаби\lab1\lab1.cs\bin\Debug\net8.0\lab1.cs.exe
+D:\uni\курс 2\сем 1\ООП\лаби\lab1\lab1.cs\bin\Debug\net8.0\lab1.cs.deps.json
+D:\uni\курс 2\сем 1\ООП\лаби\lab1\lab1.cs\bin\Debug\net8.0\lab1.cs.runtimeconfig.json
+D:\uni\курс 2\сем 1\ООП\лаби\lab1\lab1.cs\bin\Debug\net8.0\lab1.cs.dll
+D:\uni\курс 2\сем 1\ООП\лаби\lab1\lab1.cs\bin\Debug\net8.0\lab1.cs.pdb
+D:\uni\курс 2\сем 1\ООП\лаби\lab1\lab1.cs\obj\Debug\net8.0\lab1.cs.GeneratedMSBuildEditorConfig.editorconfig
+D:\uni\курс 2\сем 1\ООП\лаби\lab1\lab1.cs\obj\Debug\net8.0\lab1.cs.AssemblyInfoInputs.cache
+D:\uni\курс 2\сем 1\ООП\лаби\lab1\lab1.cs\obj\Debug\net8.0\lab1.cs.AssemblyInfo.cs
+D:\uni\курс 2\сем 1\ООП\лаби\lab1\lab1.cs\obj\Debug\net8.0\lab1.cs.csproj.CoreCompileInputs.cache
+D:\uni\курс 2\сем 1\ООП\лаби\lab1\lab1.cs\obj\Debug\net8.0\lab1.cs.dll
+D:\uni\курс 2\сем 1\ООП\лаби\lab1\lab1.cs\obj\Debug\net8.0\refint\lab1.cs.dll
+D:\uni\курс 2\сем 1\ООП\лаби\lab1\lab1.cs\obj\Debug\net8.0\lab1.cs.pdb
+D:\uni\курс 2\сем 1\ООП\лаби\lab1\lab1.cs\obj\Debug\net8.0\lab1.cs.genruntimeconfig.cache
+D:\uni\курс 2\сем 1\ООП\лаби\lab1\lab1.cs\obj\Debug\net8.0\ref\lab1.cs.dll
